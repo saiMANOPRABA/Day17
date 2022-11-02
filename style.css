@@ -1,0 +1,32 @@
+:root{
+    --first-color: #F79432;
+    --second-color: white;
+    --third-color:#131387;
+    --fourth-color:#128308;
+
+
+}
+
+.a{
+    color: var(--first-color);
+    text-align: center;
+    font-size: 250%;
+}
+
+.b{
+    color: var(--third-color);
+    text-align: center;
+    font-size: 250%;
+}
+
+.c{
+    text-align: center;
+    font-size: 250%;
+    color: var(--fourth-color);
+}
+
+.d{
+    text-align: center;
+    font-size: 350%;
+    text-decoration: dotted;
+}
